@@ -1,6 +1,6 @@
 /* ---------------------
  * Problema: Minimum Spanning Tree (SPOJ MST / Beecrowd 1152)
- * Link: https://www.beecrowd.com.br/judge/en/problems/view/1152
+ * Link: https://www.beecrowd.com.br/judge/en/problems/view/1152 
  * Tecnica: Algoritmo Guloso (Prim)
  *
  * Explicacao:

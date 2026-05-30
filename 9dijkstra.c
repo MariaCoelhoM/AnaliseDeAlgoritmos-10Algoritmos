@@ -1,6 +1,6 @@
 /* ------------------------
  * Problema: SHPATH - The Shortest Path (SPOJ)
- * Link: https://www.spoj.com/problems/SHPATH/
+ * Link: https://www.spoj.com/problems/SHPATH/ 
  * Tecnica: Grafos (Dijkstra com heap de prioridade)
  *
  * Explicacao:

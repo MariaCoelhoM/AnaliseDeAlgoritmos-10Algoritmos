@@ -1,6 +1,6 @@
 /* ----------------------------
  * Problema: LASTDIG - The Last Digit (SPOJ)
- * Link: https://www.spoj.com/problems/LASTDIG/
+ * Link: https://www.spoj.com/problems/LASTDIG/ 
  * Tecnica: Divisao e Conquista (Exponenciacao Rapida)
  *
  * Explicacao:

@@ -1,6 +1,6 @@
 /* ---------------------------------
  * Problema: Palindrome Partitioning (LeetCode 131)
- * Link: https://leetcode.com/problems/palindrome-partitioning/
+ * Link: https://leetcode.com/problems/palindrome-partitioning/ 
  * Tecnica: Backtracking
  *
  * Explicacao:
